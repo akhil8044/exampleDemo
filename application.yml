@@ -1,9 +1,5 @@
-server:
-  port: 8082
-
-
 spring:
    application:
-     name:
+     name: config-server
 
 my.greetings: hello from configserver
